@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PS14 - Travel Planner Chatbot
 
 **Problem statement:** Planning trips takes hours of searching. This app generates a day-wise
@@ -30,3 +31,6 @@ Add 1-2 screenshots here (e.g. `screenshots/output1.png`).
 
 ## Note
 Costs are AI-generated estimates; verify before booking.
+=======
+# llm-ps14-14
+>>>>>>> origin/main
